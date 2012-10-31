@@ -18,7 +18,7 @@ namespace CommonEPG
     public class MCData : IDisposable
     {
         // Class Members
-        ObjectStoreManager storeManager;
+        ObjectStoreManager storeManager;   
         
         // Events
         public event EventHandler<DebugReportEventArgs> DebugReport;

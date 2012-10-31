@@ -20,3 +20,9 @@ D:\Users\Carl\Visual Studio\Projects\RemotePotatoGitHub\remotepotato\Visual Stud
 D:\Users\Carl\Visual Studio\Projects\RemotePotatoGitHub\remotepotato\Visual Studio\RemotePotatoSettings\bin\Release\RemotePotatoSettings.pdb
 D:\Users\Carl\Visual Studio\Projects\RemotePotatoGitHub\remotepotato\Visual Studio\RemotePotatoSettings\obj\Release\RemotePotatoSettings.dll
 D:\Users\Carl\Visual Studio\Projects\RemotePotatoGitHub\remotepotato\Visual Studio\RemotePotatoSettings\obj\Release\RemotePotatoSettings.pdb
+C:\Users\Gareth\Documents\GitHub\remotepotato\Server\RemotePotatoSettings\bin\Release\RemotePotatoSettings.dll.config
+C:\Users\Gareth\Documents\GitHub\remotepotato\Server\RemotePotatoSettings\bin\Release\RemotePotatoSettings.dll
+C:\Users\Gareth\Documents\GitHub\remotepotato\Server\RemotePotatoSettings\bin\Release\RemotePotatoSettings.pdb
+C:\Users\Gareth\Documents\GitHub\remotepotato\Server\RemotePotatoSettings\obj\Release\RemotePotatoSettings.csprojResolveAssemblyReference.cache
+C:\Users\Gareth\Documents\GitHub\remotepotato\Server\RemotePotatoSettings\obj\Release\RemotePotatoSettings.dll
+C:\Users\Gareth\Documents\GitHub\remotepotato\Server\RemotePotatoSettings\obj\Release\RemotePotatoSettings.pdb

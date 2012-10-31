@@ -39,3 +39,13 @@ D:\Users\Carl\Visual Studio\Projects\RemotePotatoGitHub\remotepotato\Visual Stud
 D:\Users\Carl\Visual Studio\Projects\RemotePotatoGitHub\remotepotato\Visual Studio\RPKeySender\obj\x86\Release\RPKeySender.csproj.GenerateResource.Cache
 D:\Users\Carl\Visual Studio\Projects\RemotePotatoGitHub\remotepotato\Visual Studio\RPKeySender\obj\x86\Release\RPKeySender.exe
 D:\Users\Carl\Visual Studio\Projects\RemotePotatoGitHub\remotepotato\Visual Studio\RPKeySender\obj\x86\Release\RPKeySender.pdb
+C:\Users\Gareth\Documents\GitHub\remotepotato\Server\RPKeySender\bin\Release\RPKeySender.exe.config
+C:\Users\Gareth\Documents\GitHub\remotepotato\Server\RPKeySender\bin\Release\RPKeySender.exe
+C:\Users\Gareth\Documents\GitHub\remotepotato\Server\RPKeySender\bin\Release\RPKeySender.pdb
+C:\Users\Gareth\Documents\GitHub\remotepotato\Server\RPKeySender\bin\Release\InputSimulator.dll
+C:\Users\Gareth\Documents\GitHub\remotepotato\Server\RPKeySender\obj\x86\Release\RPKeySender.csprojResolveAssemblyReference.cache
+C:\Users\Gareth\Documents\GitHub\remotepotato\Server\RPKeySender\obj\x86\Release\RPKeySender.Form1.resources
+C:\Users\Gareth\Documents\GitHub\remotepotato\Server\RPKeySender\obj\x86\Release\RPKeySender.Properties.Resources.resources
+C:\Users\Gareth\Documents\GitHub\remotepotato\Server\RPKeySender\obj\x86\Release\RPKeySender.csproj.GenerateResource.Cache
+C:\Users\Gareth\Documents\GitHub\remotepotato\Server\RPKeySender\obj\x86\Release\RPKeySender.exe
+C:\Users\Gareth\Documents\GitHub\remotepotato\Server\RPKeySender\obj\x86\Release\RPKeySender.pdb
